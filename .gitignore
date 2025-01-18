@@ -1,0 +1,3 @@
+node_modules
+*.nlp
+package-lock.json

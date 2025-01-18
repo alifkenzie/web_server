@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "express": "^4.21.2",
+    "node-nlp": "^5.0.0-alpha.4",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  }
+}
